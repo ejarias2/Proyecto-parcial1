@@ -16,7 +16,11 @@ Realizar un circuito que sea capaz de detectar el nivel de agua en un recipiente
 
 ## 2.Marco Teórico
 
-## 3.Materiales 
+![image](https://user-images.githubusercontent.com/116779906/205104460-599b5ede-60ee-403c-b0c1-c6ab0cf3c9ff.png)
+
+![image](https://user-images.githubusercontent.com/116779906/205104503-9a463771-80b4-4061-9a6c-4d9de1682283.png)
+
+## 3.Materiales
 
 3 Diodos led
 ![image](https://user-images.githubusercontent.com/116779906/204954982-ca4dba30-b949-400c-bbe1-f7d861b57c3d.png)
