@@ -99,7 +99,7 @@ https://youtu.be/8jZZK6wkPGM
 
 •	El circuito permite medir el nivel del agua dado a que la conexión entre el emisor y colector esta controlada por la base que en cuanto tiene contacto con el agua que en este caso es el que lo acciona con la corriente, al activar la base esta permite abre el camino entre el Emisor y Colector permitiendo que la energía fluya a través del Emisor y luego a tierra, permitiendo así que cada led se encienda en el momento en el que el cable que esta conectado a la Base tiene contacto con el agua.
 
-•	Como explicamos anteriormente el transistor funciona como una llave de paso donde la Base se usa como válvula que permite abrir la conexión Emisor/Colector.
+•	Como se explicó anteriormente el transistor funciona como una llave de paso donde la Base se usa como válvula que permite abrir la conexión Emisor/Colector.
 
 •	El conocimiento adquirido del armado de circuitos hasta el momento nos es útil para comprender el funcionamiento del mismo y el motivo por que funciona como un medidor de agua 
 
