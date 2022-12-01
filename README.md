@@ -45,6 +45,11 @@ Protoboard
 
 ## 4.Procedimiento 
 
+Antes de empezar con el procedimiento, mostraremos el diagrama del circuito 
+
+![image](https://user-images.githubusercontent.com/116779906/205121548-9110888b-936a-4a52-aa80-f35c725acac7.png)
+
+
 1.	En el protoboard colocamos los 3 transistores procurando que los colectores queden del lado derecho de esta manera:
 
 ![image](https://user-images.githubusercontent.com/116779906/204955460-98dcc399-86c0-4578-8329-64c9edb38d59.png)
