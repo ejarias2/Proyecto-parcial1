@@ -81,10 +81,16 @@ Protoboard
 
 ![image](https://user-images.githubusercontent.com/116779906/204955905-2c32ad0a-0987-4d0b-ac25-6343856e69cf.png)
 
+## 5.Funcionamiento 
 
-## 5.Video
+![image](https://user-images.githubusercontent.com/116779906/205117297-9906eca4-8b7d-448d-b361-3f86479cc1df.png)
 
-## 6.Conclusiones
+
+## 6. Video
+
+https://youtu.be/8jZZK6wkPGM
+
+## 7. Conclues
 
 •	El circuito permite medir el nivel del agua dado a que la conexión entre el emisor y colector esta controlada por la base que en cuanto tiene contacto con el agua que en este caso es el que lo acciona con la corriente, al activar la base esta permite abre el camino entre el Emisor y Colector permitiendo que la energía fluya a través del Emisor y luego a tierra, permitiendo así que cada led se encienda en el momento en el que el cable que esta conectado a la Base tiene contacto con el agua.
 
@@ -92,7 +98,7 @@ Protoboard
 
 •	El conocimiento adquirido del armado de circuitos hasta el momento nos es útil para comprender el funcionamiento del mismo y el motivo por que funciona como un medidor de agua 
 
-## 7.Bibliografía
+## 8. Bibliografía 
 https://www.youtube.com/watch?v=eix344ZICKA
 
 
