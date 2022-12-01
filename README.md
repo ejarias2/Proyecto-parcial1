@@ -42,30 +42,39 @@ Protoboard
 ## 4.Procedimiento 
 
 1.	En el protoboard colocamos los 3 transistores procurando que los colectores queden del lado derecho de esta manera:
+
 ![image](https://user-images.githubusercontent.com/116779906/204955460-98dcc399-86c0-4578-8329-64c9edb38d59.png)
 
 2.	Posteriormente con los cables conectaremos desde el emisor de cada transistor al negativo:
+
 ![image](https://user-images.githubusercontent.com/116779906/204955519-142bd3fd-287c-4a26-8ca1-0d8a90b6fe62.png)
 
 3.	Ahora con las resistencias de 470 ohm, las llevamos desde el colector del transistor hacía el otro lado del protoboard pasando el canal central:
+
 ![image](https://user-images.githubusercontent.com/116779906/204955571-2d7ff6dd-db02-451f-ba85-44b6a9d9f982.png)
 
 4.	Ahora con los diodos leds conectaremos la patita larga que es el positivo hacía el positivo y con la patita corta que es el negativo buscaremos la fila de la resistencia:
+
 ![image](https://user-images.githubusercontent.com/116779906/204955614-a44d0e6f-0690-443f-bed1-3aa1e8aa4244.png)
 
 5.	 Ahora con la resistencia de 1 Kohm la insertaremos desde la terminal positiva hacía cualquier fila del otro lado del canal central:
+
 ![image](https://user-images.githubusercontent.com/116779906/204955694-e95cd5cc-3ce0-41cc-b768-9e73bd714604.png)
 
-6.	Ahora usaremos los cables macho-macho, el primero se conectará en la fila donde pusimos nuestra resistencia de 1kohm y los siguientes 3 en la base de cada transistor 
+6.	Ahora usaremos los cables macho-macho, el primero se conectará en la fila donde pusimos nuestra resistencia de 1kohm y los siguientes 3 en la base de cada transistor :
+
 ![image](https://user-images.githubusercontent.com/116779906/204955723-b450d372-5e06-4358-b822-868a3831fc3c.png)
 
 7.	Ahora conectamos la batería con el zócalo al protoboard con el cable negativo al negativo y el negativo al negativo, pero del otro lado.
+
 ![image](https://user-images.githubusercontent.com/116779906/204955771-ffe01500-3e07-4569-9269-1f3124c23390.png)
 
 8.	Ponemos a la par el cable que sale de la resistencia de 1kohm con el cable del primer transistor, el cable del segundo transistor lo ponemos un poco más arriba con la ayuda de un cable o cinta y por último el cable del tercer transistor aún más arriba, esto es lo que nos ayudará a determinar el nivel del agua.
+
 ![image](https://user-images.githubusercontent.com/116779906/204955854-3cf06601-5495-49fd-a8a9-3d0332ff3896.png)
 
 9.	Insertamos los cables al vaso y llenamos de agua para observar como se encienden los leds dependiendo del nivel de agua.
+
 ![image](https://user-images.githubusercontent.com/116779906/204955905-2c32ad0a-0987-4d0b-ac25-6343856e69cf.png)
 
 
